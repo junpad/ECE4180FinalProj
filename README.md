@@ -2,10 +2,10 @@
 ECE 4180 Final Project
 
 # Projected Completed by:
-    Jared Walker
-    Ridwan Sadiq
-    Emanuel Abdul-Salaam
-    Juan Padilla
+Jared Walker
+Ridwan Sadiq
+Emanuel Abdul-Salaam
+Juan Padilla
 
 # Overview
 The purpose of this project is to create the board game yahtzee using the Mbed. Instead of buying the dice
@@ -13,8 +13,12 @@ and cup, you could use this product as a direct alternative!
 
 
 
-# Software Flow Diagram:
-Software written in C / C++
+# Software 
+All code can be downloaded from this repository above
+## Language: 
+C 
+C++
+## Flow Diagram:
 ![diagramPng](https://user-images.githubusercontent.com/59609816/205073871-4c2deb3c-fee8-485c-b181-c998f7e9dedb.jpg)
 
 # Hardware 
@@ -28,3 +32,6 @@ Sparkfun PCB Speaker 8ohm .1W
 Adafruit Bluefruit LE UART
 MMA8452Q Triple Axis Accelerometer
 Sparkfun pushbuttons
+Class D Amplifier
+
+## Photos / Videos
