@@ -1,5 +1,8 @@
-Welcome to the ECE4180FinalProj!
-Projected Completed by:
+# Mbed Yahtzee Game
+ECE 4180 Final Project
+
+
+# Projected Completed by:
     Jared Walker
     Ridwan Sadiq
     Emanuel Abdul-Salaam
