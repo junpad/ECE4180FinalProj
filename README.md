@@ -3,9 +3,9 @@ ECE 4180 Final Project
 
 # Projected Completed by:
 Markup :
-- Jared Walker,
-- Ridwan Sadiq,
-- Emanuel Abdul-Salaam,
+- Jared Walker
+- Ridwan Sadiq
+- Emanuel Abdul-Salaam
 - Juan Padilla
 
 # Overview
