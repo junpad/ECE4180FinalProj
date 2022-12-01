@@ -2,9 +2,9 @@
 ECE 4180 Final Project
 
 # Projected Completed by:
-Jared Walker
-Ridwan Sadiq
-Emanuel Abdul-Salaam
+Jared Walker,
+Ridwan Sadiq,
+Emanuel Abdul-Salaam,
 Juan Padilla
 
 # Overview
@@ -16,8 +16,7 @@ and cup, you could use this product as a direct alternative!
 # Software 
 All code can be downloaded from this repository above
 ## Language: 
--C 
--C++
+C, C++
 ## Flow Diagram:
 ![diagramPng](https://user-images.githubusercontent.com/59609816/205073871-4c2deb3c-fee8-485c-b181-c998f7e9dedb.jpg)
 
@@ -26,6 +25,9 @@ All code can be downloaded from this repository above
 ![hardware_PNG](https://user-images.githubusercontent.com/59609816/205076741-a9186011-fa19-4c17-8c61-a763b6f87b40.jpg)
 
 ## Hardware used:
+ Markup :
+- Bullet list
+- Bullet list item 2 
 -Mbed NXP LPC1768
 -uLCD-144-G2 128 
 -Sparkfun PCB Speaker 8ohm .1W
