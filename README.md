@@ -40,7 +40,7 @@ All code can be downloaded from this repository above
 
 Video:
 https://user-images.githubusercontent.com/59609816/206247714-e631502f-d6ea-42f9-a061-aa04ade88229.mp4
-<video src='https://youtu.be/E4A1S8FBAso' width=180/>
+<video src="https://youtu.be/E4A1S8FBAso"></video>
 
 
 
