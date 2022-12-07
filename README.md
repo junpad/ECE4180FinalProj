@@ -37,8 +37,10 @@ All code can be downloaded from this repository above
 ## Photos / Videos
 ![yahtz_2](https://user-images.githubusercontent.com/59609816/205812996-b8343ae3-b642-4d40-9558-dd736d0f8dfe.jpeg)
 ![yahtz_1](https://user-images.githubusercontent.com/59609816/205813004-f41f4dac-724e-45c6-8601-08498fc06dca.jpeg)
-[![Watch the video]
+
+Video:
 https://user-images.githubusercontent.com/59609816/206247714-e631502f-d6ea-42f9-a061-aa04ade88229.mp4
+<video src='https://youtu.be/E4A1S8FBAso' width=180/>
 
 
 
