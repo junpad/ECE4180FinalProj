@@ -29,7 +29,7 @@ All code can be downloaded from this repository above
 - Mbed NXP LPC1768
 - uLCD-144-G2 128 
 - Sparkfun PCB Speaker 8ohm .1W
-- Adafruit Bluefruit LE UART
+- Adafruit Bluetooth LE UART
 - MMA8452Q Triple Axis Accelerometer
 - Sparkfun pushbuttons
 - Class D Amplifier
