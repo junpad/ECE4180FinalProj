@@ -37,9 +37,9 @@ All code can be downloaded from this repository above
 ## Photos / Videos
 ![yahtz_2](https://user-images.githubusercontent.com/59609816/205812996-b8343ae3-b642-4d40-9558-dd736d0f8dfe.jpeg)
 ![yahtz_1](https://user-images.githubusercontent.com/59609816/205813004-f41f4dac-724e-45c6-8601-08498fc06dca.jpeg)
-Video:
+Video (Click):
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_hpbLp_M-Js/0.jpg)](https://www.youtube.com/watch?v=_hpbLp_M-Js)
+[![Vid_thumbnail](https://user-images.githubusercontent.com/59609816/206271747-d066c7db-e5da-4d67-b72d-2ab1f8b2ec3c.png)](https://www.youtube.com/watch?v=_hpbLp_M-Js)
 
 
 
