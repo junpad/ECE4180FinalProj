@@ -23,7 +23,8 @@ All code can be downloaded from this repository above
 
 # Hardware 
 ## Diagram:
-![hardware_PNG](https://user-images.githubusercontent.com/59609816/205076741-a9186011-fa19-4c17-8c61-a763b6f87b40.jpg)
+![Hardware_pic](https://user-images.githubusercontent.com/59609816/206292779-2922c535-d9a3-4025-8cf7-3449fb7873be.png)
+
 
 ## Hardware used:
 - Mbed NXP LPC1768
