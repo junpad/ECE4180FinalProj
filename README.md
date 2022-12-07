@@ -23,7 +23,8 @@ All code can be downloaded from this repository above
 
 # Hardware 
 ## Diagram:
-![Hardware_pic](https://user-images.githubusercontent.com/59609816/206292779-2922c535-d9a3-4025-8cf7-3449fb7873be.png)
+![Screen Shot 2022-12-07 at 4 26 09 PM](https://user-images.githubusercontent.com/59609816/206299872-824d9bce-a9e3-441c-8022-bb5db9890aff.png)
+
 
 
 ## Hardware used:
