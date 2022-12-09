@@ -19,7 +19,8 @@ All code can be downloaded from this repository above
 - C
 - C++
 ## Flow Diagram:
-![diagramPng](https://user-images.githubusercontent.com/59609816/205073871-4c2deb3c-fee8-485c-b181-c998f7e9dedb.jpg)
+![Screen Shot 2022-12-08 at 11 55 51 PM](https://user-images.githubusercontent.com/59609816/206627101-1f927a1f-534d-4761-b134-df7d205ea40c.png)
+
 
 # Hardware 
 ## Diagram:
